@@ -1,3 +1,4 @@
+# Play a game thats ask you to guess number
 import random
 n = random.randrange(100)
 number_of_guesses=1
